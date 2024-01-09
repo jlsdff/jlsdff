@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **jlsdff/jlsdff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,13 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello, I'm Julius Duff👋
+# Hi there, I'm Julius Duff👋
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
 ## About Me
 
-I'm a IT Student from National Teacher College, Philippines. I enjoy programming and have a passion for Web Development.
+I'm an IT Student from National Teacher College, Philippines. I enjoy programming and have a passion for Web Development.
 
 ## 🔧 Technologies & Tools
 
@@ -47,7 +46,7 @@ I'm a IT Student from National Teacher College, Philippines. I enjoy programming
 
 ## 🌱 I’m currently learning
 
-[What you are currently learning or improving upon]
+Learning and building projects with **React Native**.
 
 ## 📫 How to reach me
 
