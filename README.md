@@ -26,24 +26,24 @@ I'm a IT Student from National Teacher College, Philippines. I enjoy programming
 ## 🔧 Technologies & Tools
 
 - **Programming Languages:** 
-  ![Python](https://img.shields.io/badge/Python-Intermediate-blue)
-  ![Java](https://img.shields.io/badge/Java-Advanced-orange)
+  ![Python](https://img.shields.io/badge/Python-Beginner-blue)
+  ![Java](https://img.shields.io/badge/Java-Beginner-orange)
   ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
   ![PHP](https://img.shields.io/badge/PHP-Intermediate-purple)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-blue)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-Beginner-blue)
 
 - **Frameworks & Libraries:** 
-  ![ReactJS](https://img.shields.io/badge/ReactJS-Advanced-blue)
-  ![NextJS](https://img.shields.io/badge/NextJS-Advanced-black)
+  ![ReactJS](https://img.shields.io/badge/ReactJS-Intermediate-blue)
+  ![NextJS](https://img.shields.io/badge/NextJS-Intermediate-black)
   ![Laravel](https://img.shields.io/badge/Laravel-Intermediate-red)
-  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Intermediate-green)
+  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Beginner-green)
 
 - **Databases:** 
   ![SQL](https://img.shields.io/badge/SQL-Intermediate-blue)
-  ![NoSQL](https://img.shields.io/badge/NoSQL-Intermediate-green)
+  ![NoSQL](https://img.shields.io/badge/NoSQL-Beginner-green)
 
 - **Other Technologies:** 
-  ![Firebase](https://img.shields.io/badge/Firebase-Intermediate-yellow)
+  ![Firebase](https://img.shields.io/badge/Firebase-Beginner-yellow)
 
 ## 🌱 I’m currently learning
 
