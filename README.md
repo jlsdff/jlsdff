@@ -14,6 +14,63 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hello, I'm Julius Duff👋
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+## About Me
+
+I'm a IT Student from National Teacher College, Philippines. I enjoy programming and have a passion for Web Development.
+
+## 🔧 Technologies & Tools
+
+- **Programming Languages:** 
+  ![Python](https://img.shields.io/badge/Python-Intermediate-blue)
+  ![Java](https://img.shields.io/badge/Java-Advanced-orange)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
+  ![PHP](https://img.shields.io/badge/PHP-Intermediate-purple)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-blue)
+
+- **Frameworks & Libraries:** 
+  ![ReactJS](https://img.shields.io/badge/ReactJS-Advanced-blue)
+  ![NextJS](https://img.shields.io/badge/NextJS-Advanced-black)
+  ![Laravel](https://img.shields.io/badge/Laravel-Intermediate-red)
+  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Intermediate-green)
+
+- **Databases:** 
+  ![SQL](https://img.shields.io/badge/SQL-Intermediate-blue)
+  ![NoSQL](https://img.shields.io/badge/NoSQL-Intermediate-green)
+
+- **Other Technologies:** 
+  ![Firebase](https://img.shields.io/badge/Firebase-Intermediate-yellow)
+
+## 🌱 I’m currently learning
+
+[What you are currently learning or improving upon]
+
+## 📫 How to reach me
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)] <a href="https://www.linkedin.com/in/julius-terrence-b77331230/">LinkedIn</a>
+- [![Email](https://img.shields.io/badge/Email-Contact-red)] juliusterrence.duff@gmail.com
+
+<!--
+## 💼 My Projects
+
+- [Project 1]: Brief description and link
+- [Project 2]: Brief description and link
+- [Project 3]: Brief description and link
+-->
+## 🌐 My GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide=contribs,prs)
+
+<!--
+## 🎉 Fun Facts
+
+- [Fun Fact 1]
+- [Fun Fact 2]
+- [Fun Fact 3]
+-->
+Feel free to explore my repositories and let's connect!
+
