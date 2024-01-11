@@ -62,7 +62,7 @@ Learning and building projects with **React Native**.
 -->
 ## 🌐 My GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide=contribs,prs)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jlsdff&show_icons=true&hide=contribs,prs)
 
 <!--
 ## 🎉 Fun Facts
