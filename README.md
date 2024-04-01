@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## About Me
 
-I'm an IT Student from National Teacher College, Philippines. I enjoy programming and have a passion for Web Development.
+I'm an IT Student from National Teacher College, Philippines. I enjoy programming and have a passion for Full Stack Development.
 
 ## 🔧 Technologies & Tools
 
